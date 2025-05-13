@@ -1,8 +1,8 @@
 header{
     display:flex;
     justify-content: space-between;
-    background-color: rgb(48, 48, 107);
-    color: rgb(253, 253, 9);
+    background-color: rgb(6, 6, 179);
+    color: rgb(12, 12, 7);
 }
 li{
     display:inline-block;
@@ -25,7 +25,7 @@ header {
     display: flex;
     justify-content: space-between;
     background-color: orange;
-    color: pink;
+    color: rgb(13, 63, 213);
     padding: 10px;
 }
 
@@ -92,7 +92,7 @@ header a{
 }
 
 .project-card {
-    background-color: white;
+    background-color: rgb(196, 192, 192);
     border: 2px solid black;
     border-radius: 20px;
     width: 250px;
@@ -103,7 +103,7 @@ header a{
 
 .demo-button {
     padding: 8px 16px;
-    background-color: #eee;
+    background-color: #f0f4be;
     border: 1px solid #000;
     border-radius: 8px;
     cursor: pointer;
@@ -185,4 +185,4 @@ header a{
 .contact-form button:hover {
     background-color: #e9f0e9;
 }
-~
+
