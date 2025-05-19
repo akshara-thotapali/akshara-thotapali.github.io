@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: linear-gradient(to right, #757a7a, #7c7979);
+  background: linear-gradient(to right, #9da5a7, #8a8787);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
   height: 100vh;
@@ -14,15 +14,15 @@ body {
   background-color: #ffffff;
   padding: 40px;
   border-radius: 12px;
-  box-shadow: 0 4px 15px rgba(41, 38, 38, 0.1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
-  color: #879997;
+  color: #00796b;
   margin-bottom: 15px;
 }
 
 p {
-  font-size:18px;
+  font-size: 18px;
   color: #333333;
 }
