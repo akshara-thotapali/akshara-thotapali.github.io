@@ -126,7 +126,7 @@ header a{
 
 .service-card {
     background-color: #fc9b9b;
-    border: 2px solid: #d6c9f0c;
+    border: 2px;
     border-radius: 16px;
     width: 250px;
     padding: 20px;
